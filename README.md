@@ -47,14 +47,15 @@ Description: A practical dashboard designed to demonstrate my data visualization
   
 # Data Preparation
 Each project includes meticulously cleaned datasets, emphasizing my commitment to data integrity. The datasets encompass historical cutoff rank data for both IITs and NITs, ensuring comprehensive analyses.
+[Uncleaned Dataset ZIP](https://github.com/itskashish/STUDENT-PERFORMANCE-ANALYSIS/blob/main/UNCLEANED%20DATASET.zip)
 
 # Conclusion
 These projects represent a significant contribution to the fields of data analytics and business intelligence, demonstrating my capacity to leverage data visualization and predictive modeling for strategic decision-making in academic and business contexts.
 
 Repository Structure
-STUDENT ANALYSIS DASHBOARD – Comprehensive Power BI project file for IIT/NIT Cutoff Ranks
-STUDENT_DATA.ipynb – Complete documentation and code for predictive modeling
-Sample_Sales_Dashboard.pbix – Business-oriented Power BI file for the sample sales dashboard
+ [POWER BI DASHBOARD ( data analysis )](https://github.com/itskashish/STUDENT-PERFORMANCE-ANALYSIS/blob/main/STUDENT%20ANALYSIS%20DASHBOARD%20FINAL.pdf) – Comprehensive Power BI project file for IIT/NIT Cutoff Ranks
+ [Data science Jupyter notebook ](https://github.com/itskashish/STUDENT-PERFORMANCE-ANALYSIS/blob/main/STUDENT_DATA.ipynb)– Complete documentation and code for predictive modeling
+ [Sales power BI Dashboard PDF](https://github.com/itskashish/STUDENT-PERFORMANCE-ANALYSIS/blob/main/SALES%20DASHBOARD.pdf)– Business-oriented Power BI file for the sample sales dashboard
 Datasets/ – Collection of raw and cleaned datasets, including IIT and NIT data
 Documentation/ – Detailed insights and methodologies for each project
 

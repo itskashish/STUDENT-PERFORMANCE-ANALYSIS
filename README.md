@@ -25,6 +25,7 @@ Notable Features:
 
   
 # 2. Data Science Project for Predictive Analytics
+[Data science Jupyter notebook ](https://github.com/itskashish/STUDENT-PERFORMANCE-ANALYSIS/blob/main/STUDENT_DATA.ipynb)
 
 Description: A state-of-the-art project employing statistical modeling and machine learning to predict future cutoff ranks for IITs and NITs based on historical data.
 - Innovative Techniques: Utilizes advanced algorithms to generate forecasts, allowing stakeholders to anticipate trends and 

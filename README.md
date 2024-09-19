@@ -36,6 +36,7 @@ Description: A state-of-the-art project employing statistical modeling and machi
 
   
 # 3. Sample Sales Dashboard
+[Sales power BI Dashboard PDF](https://github.com/itskashish/STUDENT-PERFORMANCE-ANALYSIS/blob/main/SALES%20DASHBOARD.pdf)
 Description: A practical dashboard designed to demonstrate my data visualization skills in a business context, highlighting the ability to translate data into actionable business intelligence.
 - Insightful Metrics: Showcases key sales metrics and performance indicators, providing a clear overview of sales trends 
   that support strategic business decisions.

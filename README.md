@@ -5,6 +5,7 @@ Overview :
 This repository showcases three significant projects that leverage data analytics to provide insights into IIT and NIT admissions trends over the past five years. Each project is designed to facilitate data-driven decision-making and enhance understanding of competitive landscapes.
 
 # 1. Power BI Dashboard for IIT/NIT Cutoff Ranks
+POWER BI DASHBOARD ( data analysis )
  link - POWER BI DASHBOARD ( data analysis )
 Description: An advanced Power BI dashboard visualizing cutoff rank trends for IITs and NITs, offering a critical tool for stakeholders in the admissions process.
 

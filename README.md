@@ -29,6 +29,8 @@ Description: A state-of-the-art project employing statistical modeling and machi
   make informed strategic decisions.
 - Visual Impact: Compelling visualizations present complex predictive insights in an easily digestible format, enhancing 
   stakeholder engagement.
+  ![image](https://github.com/user-attachments/assets/de7f40d7-9e38-415d-80b6-8a0135a0aecf)
+
   
 # 3. Sample Sales Dashboard
 Description: A practical dashboard designed to demonstrate my data visualization skills in a business context, highlighting the ability to translate data into actionable business intelligence.

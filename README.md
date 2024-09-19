@@ -1,5 +1,5 @@
-# STUDENT-PERFORMANCE-ANALYSI
-Comprehensive Data Analytics Projects: Power BI Dashboard and Predictive Modeling for IIT/NIT Admissions & Sales analytics
+# Comprehensive Data Analytics & Data Science Projects: 
+Power BI Dashboard and Predictive Modeling for IIT/NIT Admissions & Sales analytics
 
 Overview :
 This repository showcases three significant projects that leverage data analytics to provide insights into IIT and NIT admissions trends over the past five years. Each project is designed to facilitate data-driven decision-making and enhance understanding of competitive landscapes.
@@ -52,12 +52,7 @@ Each project includes meticulously cleaned datasets, emphasizing my commitment t
 # Conclusion
 These projects represent a significant contribution to the fields of data analytics and business intelligence, demonstrating my capacity to leverage data visualization and predictive modeling for strategic decision-making in academic and business contexts.
 
-Repository Structure
- [POWER BI DASHBOARD ( data analysis )](https://github.com/itskashish/STUDENT-PERFORMANCE-ANALYSIS/blob/main/STUDENT%20ANALYSIS%20DASHBOARD%20FINAL.pdf) – Comprehensive Power BI project file for IIT/NIT Cutoff Ranks
- [Data science Jupyter notebook ](https://github.com/itskashish/STUDENT-PERFORMANCE-ANALYSIS/blob/main/STUDENT_DATA.ipynb)– Complete documentation and code for predictive modeling
- [Sales power BI Dashboard PDF](https://github.com/itskashish/STUDENT-PERFORMANCE-ANALYSIS/blob/main/SALES%20DASHBOARD.pdf)– Business-oriented Power BI file for the sample sales dashboard
-Datasets/ – Collection of raw and cleaned datasets, including IIT and NIT data
-Documentation/ – Detailed insights and methodologies for each project
+
 
 
 

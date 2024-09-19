@@ -34,6 +34,8 @@ Description: A practical dashboard designed to demonstrate my data visualization
   that support strategic business decisions.
 - Skill Development: This project enhanced my proficiency in creating visually appealing dashboards that drive business 
   outcomes.
+  ![image](https://github.com/user-attachments/assets/1c212adc-2eb8-408e-949f-ebdd90a4db6c)
+
   
 # Data Preparation
 Each project includes meticulously cleaned datasets, emphasizing my commitment to data integrity. The datasets encompass historical cutoff rank data for both IITs and NITs, ensuring comprehensive analyses.

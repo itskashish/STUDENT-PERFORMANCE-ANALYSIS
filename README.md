@@ -19,6 +19,8 @@ Notable Features:
 - Interactive filters and slicers enable users to tailor analyses to specific categories or institutes.
   Essential metrics, including highest opening rank, average closing rank, and yearly changes, are prominently displayed 
   for immediate insight.
+  ![image](https://github.com/user-attachments/assets/74d7f107-abb8-4f60-9dc8-eb17a9bd7ce2)
+
   
 # 2. Data Science Project for Predictive Analytics
 
